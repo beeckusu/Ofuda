@@ -1,0 +1,4375 @@
+fileFormatVersion: 2
+guid: 753bda67b9dbbee408da27d83fd9e1c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7405371946885801546
+    second: poltergeist_0
+  - first:
+      213: 105162410328013319
+    second: poltergeist_1
+  - first:
+      213: 3285451948365863858
+    second: poltergeist_2
+  - first:
+      213: -2548257821949742681
+    second: poltergeist_3
+  - first:
+      213: -1954707747316566741
+    second: poltergeist_4
+  - first:
+      213: -6612832045780851558
+    second: poltergeist_5
+  - first:
+      213: -2282040118271137516
+    second: poltergeist_6
+  - first:
+      213: 5604666827598886456
+    second: poltergeist_7
+  - first:
+      213: -86940891750236787
+    second: poltergeist_8
+  - first:
+      213: 2191196733709150881
+    second: poltergeist_9
+  - first:
+      213: 3518726364635141581
+    second: poltergeist_10
+  - first:
+      213: -1109754167313915229
+    second: poltergeist_11
+  - first:
+      213: 2562401293373947641
+    second: poltergeist_12
+  - first:
+      213: 5785309032134082725
+    second: poltergeist_13
+  - first:
+      213: -4510708213646367644
+    second: poltergeist_14
+  - first:
+      213: 1075558508865462028
+    second: poltergeist_15
+  - first:
+      213: 294782655583465614
+    second: poltergeist_16
+  - first:
+      213: 846337405622480170
+    second: poltergeist_17
+  - first:
+      213: -4503022642827571596
+    second: poltergeist_18
+  - first:
+      213: 2059192804852618671
+    second: poltergeist_19
+  - first:
+      213: 8750560316018212410
+    second: poltergeist_20
+  - first:
+      213: 8580606350805667397
+    second: poltergeist_21
+  - first:
+      213: -239986919070223963
+    second: poltergeist_22
+  - first:
+      213: 6425665572440962289
+    second: poltergeist_23
+  - first:
+      213: 3925312541573261235
+    second: poltergeist_24
+  - first:
+      213: 6836724167582248960
+    second: poltergeist_25
+  - first:
+      213: -1413236577938554303
+    second: poltergeist_26
+  - first:
+      213: 6369613830411075576
+    second: poltergeist_27
+  - first:
+      213: 7527694946535177557
+    second: poltergeist_28
+  - first:
+      213: 9211385135016660952
+    second: poltergeist_29
+  - first:
+      213: -7169150292618586756
+    second: poltergeist_30
+  - first:
+      213: -1162326813652439897
+    second: poltergeist_31
+  - first:
+      213: 2683561548049300511
+    second: poltergeist_32
+  - first:
+      213: -3829091033898813742
+    second: poltergeist_33
+  - first:
+      213: 8409531957685865801
+    second: poltergeist_34
+  - first:
+      213: -9199005107959676240
+    second: poltergeist_35
+  - first:
+      213: 619345165436371764
+    second: poltergeist_36
+  - first:
+      213: -6930827223105802152
+    second: poltergeist_37
+  - first:
+      213: -6251236695083062207
+    second: poltergeist_38
+  - first:
+      213: 126093051145935716
+    second: poltergeist_39
+  - first:
+      213: -7004427991489188981
+    second: poltergeist_40
+  - first:
+      213: 3460756029945790366
+    second: poltergeist_41
+  - first:
+      213: -1634340000352437207
+    second: poltergeist_42
+  - first:
+      213: -7613207328154475005
+    second: poltergeist_43
+  - first:
+      213: 6697854161562326214
+    second: poltergeist_44
+  - first:
+      213: -8055941165820610833
+    second: poltergeist_45
+  - first:
+      213: -3643359298940792847
+    second: poltergeist_46
+  - first:
+      213: 9133353478503585573
+    second: poltergeist_47
+  - first:
+      213: 8890127695869095875
+    second: poltergeist_48
+  - first:
+      213: 4101450949491265116
+    second: poltergeist_49
+  - first:
+      213: 4479321172468526926
+    second: poltergeist_50
+  - first:
+      213: 8309675628950410580
+    second: poltergeist_51
+  - first:
+      213: 7845535728773383092
+    second: poltergeist_52
+  - first:
+      213: -4202889249059047228
+    second: poltergeist_53
+  - first:
+      213: -5295068643784590134
+    second: poltergeist_54
+  - first:
+      213: 6867127188283105740
+    second: poltergeist_55
+  - first:
+      213: -1995587037360724762
+    second: poltergeist_56
+  - first:
+      213: -1956154946535533720
+    second: poltergeist_57
+  - first:
+      213: -2966272595292071245
+    second: poltergeist_58
+  - first:
+      213: -7827203009316629165
+    second: poltergeist_59
+  - first:
+      213: -5457669609444919024
+    second: poltergeist_60
+  - first:
+      213: 1754935271841902482
+    second: poltergeist_61
+  - first:
+      213: 1468086742357223531
+    second: poltergeist_62
+  - first:
+      213: 2742503893434550344
+    second: poltergeist_63
+  - first:
+      213: -8416374647685727174
+    second: poltergeist_64
+  - first:
+      213: -8875844190270100783
+    second: poltergeist_65
+  - first:
+      213: -3972533852846891714
+    second: poltergeist_66
+  - first:
+      213: 2980597182798562784
+    second: poltergeist_67
+  - first:
+      213: -6132488549864907039
+    second: poltergeist_68
+  - first:
+      213: -6466762542937952351
+    second: poltergeist_69
+  - first:
+      213: 6138077798766903115
+    second: poltergeist_70
+  - first:
+      213: 602998211438588585
+    second: poltergeist_71
+  - first:
+      213: -7771779706206948011
+    second: poltergeist_72
+  - first:
+      213: -7812406770403391239
+    second: poltergeist_73
+  - first:
+      213: 5104616640787882453
+    second: poltergeist_74
+  - first:
+      213: -1001141546278093093
+    second: poltergeist_75
+  - first:
+      213: 6032448718680619052
+    second: poltergeist_76
+  - first:
+      213: -9097547004818036514
+    second: poltergeist_77
+  - first:
+      213: -6648012503570574138
+    second: poltergeist_78
+  - first:
+      213: -8877036247692195559
+    second: poltergeist_79
+  - first:
+      213: -310550769843327768
+    second: poltergeist_80
+  - first:
+      213: -3060271711643981144
+    second: poltergeist_81
+  - first:
+      213: 6788410217939007782
+    second: poltergeist_82
+  - first:
+      213: -3985131213068660506
+    second: poltergeist_83
+  - first:
+      213: 2942981782031820664
+    second: poltergeist_84
+  - first:
+      213: 1751675773895779003
+    second: poltergeist_85
+  - first:
+      213: 2720348248308210079
+    second: poltergeist_86
+  - first:
+      213: -6816402781444291084
+    second: poltergeist_87
+  - first:
+      213: 8444254999518253660
+    second: poltergeist_88
+  - first:
+      213: -5721812275755684407
+    second: poltergeist_89
+  - first:
+      213: 4695143270625474670
+    second: poltergeist_90
+  - first:
+      213: -1667654805385226299
+    second: poltergeist_91
+  - first:
+      213: 3939161433181328637
+    second: poltergeist_92
+  - first:
+      213: -6870053681501243809
+    second: poltergeist_93
+  - first:
+      213: 240825755381185631
+    second: poltergeist_94
+  - first:
+      213: -3944808357777883813
+    second: poltergeist_95
+  - first:
+      213: 6262126537582215366
+    second: poltergeist_96
+  - first:
+      213: -4602130506172829726
+    second: poltergeist_97
+  - first:
+      213: 8996691349455938183
+    second: poltergeist_98
+  - first:
+      213: 2240243327789738265
+    second: poltergeist_99
+  - first:
+      213: 8723419443926460663
+    second: poltergeist_100
+  - first:
+      213: 1255175483644463567
+    second: poltergeist_101
+  - first:
+      213: 4905368306815873771
+    second: poltergeist_102
+  - first:
+      213: -8095024240121002599
+    second: poltergeist_103
+  - first:
+      213: -8257529213205314908
+    second: poltergeist_104
+  - first:
+      213: -8722834213131942421
+    second: poltergeist_105
+  - first:
+      213: 6839328645801520629
+    second: poltergeist_106
+  - first:
+      213: 6085055993216303724
+    second: poltergeist_107
+  - first:
+      213: 7205362133898113389
+    second: poltergeist_108
+  - first:
+      213: 6526450868263527738
+    second: poltergeist_109
+  - first:
+      213: 4819457483986386244
+    second: poltergeist_110
+  - first:
+      213: -2848101977050686058
+    second: poltergeist_111
+  - first:
+      213: 1533688003258519454
+    second: poltergeist_112
+  - first:
+      213: -3185632525240931896
+    second: poltergeist_113
+  - first:
+      213: -8757571659225605579
+    second: poltergeist_114
+  - first:
+      213: -1017961338367899132
+    second: poltergeist_115
+  - first:
+      213: -2642680959928190971
+    second: poltergeist_116
+  - first:
+      213: -7633431332655762388
+    second: poltergeist_117
+  - first:
+      213: -6810343273946497635
+    second: poltergeist_118
+  - first:
+      213: -4880726995010510769
+    second: poltergeist_119
+  - first:
+      213: -5947961240405341429
+    second: poltergeist_120
+  - first:
+      213: -3355834024358911042
+    second: poltergeist_121
+  - first:
+      213: -8913286821607331194
+    second: poltergeist_122
+  - first:
+      213: -1529052490536021915
+    second: poltergeist_123
+  - first:
+      213: -4401318335370424327
+    second: poltergeist_124
+  - first:
+      213: 6054573274899991057
+    second: poltergeist_125
+  - first:
+      213: -7654590774023465723
+    second: poltergeist_126
+  - first:
+      213: 2131856095638312969
+    second: poltergeist_127
+  - first:
+      213: -5651568800133514658
+    second: poltergeist_128
+  - first:
+      213: -5730257033054513454
+    second: poltergeist_129
+  - first:
+      213: -3903251016995034950
+    second: poltergeist_130
+  - first:
+      213: -4857469740280129336
+    second: poltergeist_131
+  - first:
+      213: 493054316810908817
+    second: poltergeist_132
+  - first:
+      213: 3627046313890471161
+    second: poltergeist_133
+  - first:
+      213: 444164535569112470
+    second: poltergeist_134
+  - first:
+      213: 4115149393507396614
+    second: poltergeist_135
+  - first:
+      213: 6261346794085208231
+    second: poltergeist_136
+  - first:
+      213: 255110201645014905
+    second: poltergeist_137
+  - first:
+      213: -5208381694677728897
+    second: poltergeist_138
+  - first:
+      213: -8623940814036406815
+    second: poltergeist_139
+  - first:
+      213: 8709599564940875048
+    second: poltergeist_140
+  - first:
+      213: -3553011537852205191
+    second: poltergeist_141
+  - first:
+      213: 6626098435694498642
+    second: poltergeist_142
+  - first:
+      213: 2458276369562377774
+    second: poltergeist_143
+  - first:
+      213: -4497364802844301330
+    second: poltergeist_144
+  - first:
+      213: 6887311822075919722
+    second: poltergeist_145
+  - first:
+      213: 7607579733343249736
+    second: poltergeist_146
+  - first:
+      213: -5816146853956003321
+    second: poltergeist_147
+  - first:
+      213: 2799124084339744574
+    second: poltergeist_148
+  - first:
+      213: 2338607944634662362
+    second: poltergeist_149
+  - first:
+      213: -5376450238070292352
+    second: poltergeist_150
+  - first:
+      213: -7267521509164796874
+    second: poltergeist_151
+  - first:
+      213: -1199426704638841309
+    second: poltergeist_152
+  - first:
+      213: 2768454148968468702
+    second: poltergeist_153
+  - first:
+      213: -7282766637953431383
+    second: poltergeist_154
+  - first:
+      213: 5413100798553636792
+    second: poltergeist_155
+  - first:
+      213: -8980802307138378190
+    second: poltergeist_156
+  - first:
+      213: -1684317085993652547
+    second: poltergeist_157
+  - first:
+      213: 3994688122117697040
+    second: poltergeist_158
+  - first:
+      213: 4398370011072610540
+    second: poltergeist_159
+  - first:
+      213: 4103077926648959369
+    second: poltergeist_160
+  - first:
+      213: 7709411677371260845
+    second: poltergeist_161
+  - first:
+      213: 8389744547018774805
+    second: poltergeist_162
+  - first:
+      213: 5844250922243501346
+    second: poltergeist_163
+  - first:
+      213: 5485437954270428132
+    second: poltergeist_164
+  - first:
+      213: 2750049266688265708
+    second: poltergeist_165
+  - first:
+      213: -2066982547400100002
+    second: poltergeist_166
+  - first:
+      213: 3911622309901962928
+    second: poltergeist_167
+  - first:
+      213: -630561216109016000
+    second: poltergeist_168
+  - first:
+      213: -5100766095764676689
+    second: poltergeist_169
+  - first:
+      213: -9054703059218174137
+    second: poltergeist_170
+  - first:
+      213: -6141889346570269968
+    second: poltergeist_171
+  - first:
+      213: -6244277812720838965
+    second: poltergeist_172
+  - first:
+      213: 7628761921845452811
+    second: poltergeist_173
+  - first:
+      213: -2466117552769098748
+    second: poltergeist_174
+  - first:
+      213: -253463134142801387
+    second: poltergeist_175
+  - first:
+      213: -1158178500050935847
+    second: poltergeist_176
+  - first:
+      213: -8802401913862115935
+    second: poltergeist_177
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poltergeist_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e5311e43818134f871207c70bae4ea
+      internalID: 7405371946885801546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f48d281fbdf7449b6c8d824d14f3b9
+      internalID: 105162410328013319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401cb08e1aec40a49b33de39c8b6f757
+      internalID: 3285451948365863858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0e388f2324cc647a1269246e7cde17
+      internalID: -2548257821949742681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a147ac33310365e4988f47dcb99fcc41
+      internalID: -1954707747316566741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc29dbad32d233141a7f5b7009502af4
+      internalID: -6612832045780851558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1278
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e92f627e0170e4b877373e25b9ef13
+      internalID: -2282040118271137516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1214
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1e685e59cad7b419578291355e9d7f
+      internalID: 5604666827598886456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1214
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472ec59fd912b084f970fae38639ccb0
+      internalID: -86940891750236787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1214
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322861f43aa70ab4abd8f1053e9fd34b
+      internalID: 2191196733709150881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1214
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e312f8bd735756479c578386647b0a2
+      internalID: 3518726364635141581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1214
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020926deb095f034fa8c2f3f46556a3b
+      internalID: -1109754167313915229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1214
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df81d1a46a56169489692305a461bdf2
+      internalID: 2562401293373947641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1214
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17edcb6a7a291eb49b67d38b0519af9f
+      internalID: 5785309032134082725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0f83b8442a7e744a28b46da436fd03
+      internalID: -4510708213646367644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82077feb73759489911f6cf083bb29
+      internalID: 1075558508865462028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce660a06bb18eb649b5a25f2d37b706d
+      internalID: 294782655583465614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b981b4017597724892f7d4d8e293dce
+      internalID: 846337405622480170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7add43426c8bb64e8793ee5608b7845
+      internalID: -4503022642827571596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c600bcce148574784c1b1cd34d5bac
+      internalID: 2059192804852618671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1150
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef82c5620feac734c932c2f522aa8ae0
+      internalID: 8750560316018212410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1086
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d267d4eb5470264986481c5ccc895c3
+      internalID: 8580606350805667397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1086
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de33acbcae0d2346a9e1f619b3bf731
+      internalID: -239986919070223963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1086
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab94f5ffd1724b4dad82a319ab5ba05
+      internalID: 6425665572440962289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1086
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d1c14047ba89343bc403bfc10bdb99
+      internalID: 3925312541573261235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1086
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633d31689d0e802489e4c3b53660ac30
+      internalID: 6836724167582248960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1086
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58880b5f7aef5344ac78c0af4ba83fa
+      internalID: -1413236577938554303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1086
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f182f673dfff3a2428574d833a4e292e
+      internalID: 6369613830411075576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1022
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d64d5fc58df944a3768d63fee598c
+      internalID: 7527694946535177557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1022
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ae6e56744ae754b8fc5a6043dd47a7
+      internalID: 9211385135016660952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1022
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e7b1907664ea4bbe3e71bdf1f625a
+      internalID: -7169150292618586756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1022
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b21ab060e0c8d42b792525a9c116f4
+      internalID: -1162326813652439897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1022
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da028fc15cf07b45bd638b805d7ee30
+      internalID: 2683561548049300511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1022
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00a125815b37f4429f066d80e5c6e68
+      internalID: -3829091033898813742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1022
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0644205c16d3454bb3d7f912ee9c2bd
+      internalID: 8409531957685865801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1022
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea7d2621f2bc604bb1a597419950c7b
+      internalID: -9199005107959676240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98530cae938165846b8c24b1abfcb983
+      internalID: 619345165436371764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0701504fd3f454ebf51914b8020a0a
+      internalID: -6930827223105802152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af7508b019b6574cbffe7e11096f39f
+      internalID: -6251236695083062207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c8fa254433fad4aa627c04a9e56309
+      internalID: 126093051145935716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914e65c0e6bdb104d995a2bf7349c07d
+      internalID: -7004427991489188981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707c4a332f2e97a4b9237abf374471f7
+      internalID: 3460756029945790366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf16377890720846b6d8115f5a2f7a9
+      internalID: -1634340000352437207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3103d384a67d4b7498eca6700e3240ce
+      internalID: -7613207328154475005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb64ffde3483f4aa75cbb9183446d8
+      internalID: 6697854161562326214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4788055df5ab444e87486ee55ea1719
+      internalID: -8055941165820610833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c854cbbf182954da14928eadaf75fb
+      internalID: -3643359298940792847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d46dac6ab04b84ea0208c1b91da79d
+      internalID: 9133353478503585573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33654b8b12bc145aaaed4b49e54652
+      internalID: 8890127695869095875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ffdb3e4a8baa4e817a3656bd9d16a
+      internalID: 4101450949491265116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feba89c221acd9478bd44767b66f895
+      internalID: 4479321172468526926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 894
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0591ad9652293f44f82725d279ace3c1
+      internalID: 8309675628950410580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a60971257690f4c8a75982fa845fb0
+      internalID: 7845535728773383092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd423c7cc0a43746ae54112c336f0be
+      internalID: -4202889249059047228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80b513860ed96e46bbd2b855439449b
+      internalID: -5295068643784590134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0547e2e7d9d12554ba39d1ae09249f07
+      internalID: 6867127188283105740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b84d9eeadbf38943abc9a9d08fcb42c
+      internalID: -1995587037360724762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc554ba71b1d6784bb9d998cfa5bd3f2
+      internalID: -1956154946535533720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7e947b3ea4514bb820cf2c40e66ab
+      internalID: -2966272595292071245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 830
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df463ea75a693f49b4288e68fe3f62b
+      internalID: -7827203009316629165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271037b4f1e73cc41bf91ee8f68ebbe9
+      internalID: -5457669609444919024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a795bc574a228947877f05acc3deb90
+      internalID: 1754935271841902482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fdfb32b0ed4284aab0cf85f91ddfd2
+      internalID: 1468086742357223531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1def487926372848811daf414a8f173
+      internalID: 2742503893434550344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0e144bde0d6d94f8ee5b8beb32cd11
+      internalID: -8416374647685727174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e05cd1471c99cf4396b8185a0e3b35e
+      internalID: -8875844190270100783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cbc2919cd167c409fbc9417fe5a6ce
+      internalID: -3972533852846891714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08610e41532b96c47ad31d69fb700410
+      internalID: 2980597182798562784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 766
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed4d66f9a0f7814ab242c4e4d0716be
+      internalID: -6132488549864907039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478dfdc66f2397a4caeb62a5536ff7df
+      internalID: -6466762542937952351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd3957718361cf4f9d192ba2c96e29b
+      internalID: 6138077798766903115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886545a061ae0bf46927a9c67acc83b2
+      internalID: 602998211438588585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43130f790a720b346af2f3c39b851c30
+      internalID: -7771779706206948011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645ccd84f6534954ebee86a0dc4d1251
+      internalID: -7812406770403391239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0263065a0a7d44189badf136969ef9
+      internalID: 5104616640787882453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52f449a78d984e409675248d47b28fc
+      internalID: -1001141546278093093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5898562d8ffbc554589803127583cfe8
+      internalID: 6032448718680619052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 702
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2969010405d534408159c6c473f45f6
+      internalID: -9097547004818036514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6fee95afac89548a00ff08b58b8516
+      internalID: -6648012503570574138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f1f5302949f304099afe579fa63ad6
+      internalID: -8877036247692195559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65e425932d8a834ea74b64559b2ecb3
+      internalID: -310550769843327768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d90a1f91c9542c4d84bf1985c7ab24f
+      internalID: -3060271711643981144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd65986e8806bca4d8b94ec3263e209c
+      internalID: 6788410217939007782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff857400c03ccbe47b987dfd3cf3d1d3
+      internalID: -3985131213068660506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b82b72b554cec4b8dd3bc260ccc9c7
+      internalID: 2942981782031820664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfdc5b738af96341a50140581d91c89
+      internalID: 1751675773895779003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 638
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3a9cb41cbda5e47a37154f97d6d2e3
+      internalID: 2720348248308210079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e19939911cae7428b7b84249c1901e
+      internalID: -6816402781444291084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b319fd0ede2024ba655d0096b30bd8
+      internalID: 8444254999518253660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff05280e8a16f346b67bdcea11dc22c
+      internalID: -5721812275755684407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0b0b9082770c440bada7dde10a775d
+      internalID: 4695143270625474670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef53b50a7e98fa4e806232741239011
+      internalID: -1667654805385226299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8077eefa09dd1468a948ce841804bc
+      internalID: 3939161433181328637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257512df386a37a4fb4a30c14becf234
+      internalID: -6870053681501243809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d184db7485e046aa87cd718236972
+      internalID: 240825755381185631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 574
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e427ccfa8d0d80a4ca958c09d34dcf0b
+      internalID: -3944808357777883813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8d30ad2e0c2f8409d910cde54f2152
+      internalID: 6262126537582215366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bceaff7e38c0a40b1d35f8cae7ab98
+      internalID: -4602130506172829726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8ea00d8ceee64c9af960a592e8dda
+      internalID: 8996691349455938183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e037ed56c91baf64f9510a3866190717
+      internalID: 2240243327789738265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9f03ff45f71ad4b916dfdfc558d627
+      internalID: 8723419443926460663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 510
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc698909ad72f64c8fbed351182f828
+      internalID: 1255175483644463567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ab2906cb711a439a186ebd2ef12b5
+      internalID: 4905368306815873771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc0f9287e3357943a0d1aee0f20823e
+      internalID: -8095024240121002599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f461147cb3e50449e231f4d4cc1f03
+      internalID: -8257529213205314908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57593db391fc9894c8fc73fd167ce157
+      internalID: -8722834213131942421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed04070b8d6897744b36948abc718ecc
+      internalID: 6839328645801520629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd91b821b0cfe2b4d8c8bbc6f991a381
+      internalID: 6085055993216303724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091f337eb6f11c14b8f0e6bcff7538f8
+      internalID: 7205362133898113389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c02d1abefb7e24da66b9fb8a16674b
+      internalID: 6526450868263527738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb058fb8190f246bab9184c7a2dbf9
+      internalID: 4819457483986386244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1258a680d3a758947b81dd229e369ad2
+      internalID: -2848101977050686058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d43d5ab51dad34995855d62317df20
+      internalID: 1533688003258519454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 382
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf601bb2cf2c9545962f5d12e1de41c
+      internalID: -3185632525240931896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36b4d4817fe0dc4a90def09da232ba9
+      internalID: -8757571659225605579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a36f2410b7ea8e40b54b1dad7d72a09
+      internalID: -1017961338367899132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247a63ee3fc04f442b319de4ceb101fd
+      internalID: -2642680959928190971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e2d88699f39b14db1edb1a216a55d0
+      internalID: -7633431332655762388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dabacf957875d46add1afea95ec00f
+      internalID: -6810343273946497635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c17f84df41fa4889fe2b509181cab
+      internalID: -4880726995010510769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d95b1507a986945ae51f0dfbd0d302
+      internalID: -5947961240405341429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbefa155c6249b448abf347c273fa42a
+      internalID: -3355834024358911042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a3543052aea741af71a09a4fb93e4
+      internalID: -8913286821607331194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42f8083e5d9d2e48980a0f35404db1d
+      internalID: -1529052490536021915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d407099cc07eb4d95be6ea4928bbf1
+      internalID: -4401318335370424327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5905f960db70b6a47a40297794883869
+      internalID: 6054573274899991057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d6e3ae6d0069640a98af774d7404ce
+      internalID: -7654590774023465723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d3e407d4a57c4418e92d5d9c62b218
+      internalID: 2131856095638312969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595cf2699eae57e45a16a78322fb2042
+      internalID: -5651568800133514658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4326a462a42b73d43bf229da1ad5d1ba
+      internalID: -5730257033054513454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c42003924edd418e75b75e7c755cd
+      internalID: -3903251016995034950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37181960bf5fe53448b2637060fbb244
+      internalID: -4857469740280129336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d88ce86019043045b6a329e848a145a
+      internalID: 493054316810908817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93618e90d397eb947ba2a5aae8ca91ac
+      internalID: 3627046313890471161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57418898d59def4daa1ee0528556d4f
+      internalID: 444164535569112470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b8caa97dad9c34f93d8013a1466284
+      internalID: 4115149393507396614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04847b141c131e44cbdc30ff14304762
+      internalID: 6261346794085208231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ce1d2abf5400f4a818f07d1948dfa2
+      internalID: 255110201645014905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736b896b68a6d8b41ba65a163d3fbe3d
+      internalID: -5208381694677728897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa4f45e799904b47b7323241c22d563
+      internalID: -8623940814036406815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5a3f56e4eff641836cbaf2717a9e1
+      internalID: 8709599564940875048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf516eb7b710ee42bd2ad901cf310b9
+      internalID: -3553011537852205191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc55a75fd730c349a3549b698278692
+      internalID: 6626098435694498642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f90e16afdc2c747905fd7075cdd293
+      internalID: 2458276369562377774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1248c619ad3ee24a909a66b7f95edc8
+      internalID: -4497364802844301330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 190
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e3f6c8e5f78e642928177830e1488e
+      internalID: 6887311822075919722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011bf6f946ffb694b9cdeb50b3d95fe9
+      internalID: 7607579733343249736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ea26ed24b4ea34fa12157f1bbd257a
+      internalID: -5816146853956003321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0947105af7bab49b7b1bd8abed1779
+      internalID: 2799124084339744574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683f4f13805ee1147b5014c07b19c510
+      internalID: 2338607944634662362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a7c4dd2bfa4b14d91a65c4f2a2c161
+      internalID: -5376450238070292352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b514962fd7fc4c4b984f5af10a22ad9
+      internalID: -7267521509164796874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505dd2a6c834ad540b6d07de4b8f8c47
+      internalID: -1199426704638841309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961a6ee1f2f7b1e4694f6311f923cebf
+      internalID: 2768454148968468702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a475fb0e59ad90b419683d2df7988757
+      internalID: -7282766637953431383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2541a2e4816bb9a48a2a42667d74dab4
+      internalID: 5413100798553636792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19aa6fe7990da444999732396007085
+      internalID: -8980802307138378190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcfa8f1f7f66bc4392c688cc28f1063
+      internalID: -1684317085993652547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 126
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c68e17f274b84592bf8b109ee8c05
+      internalID: 3994688122117697040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a704a434cd9764cb1a8667a2b32173
+      internalID: 4398370011072610540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c54fb0e41353f4e892dc3a9bc94f2f
+      internalID: 4103077926648959369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa943d27d2c4ec47889b09b8eb374a1
+      internalID: 7709411677371260845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6dcd5eed5ca514ab857e12384d1493
+      internalID: 8389744547018774805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b73cc58b9697b54ba27f2c25352982d
+      internalID: 5844250922243501346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ccb1677eb505145bd445ec4e74ce84
+      internalID: 5485437954270428132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4f9defab01f0240a6ece40caeace5d
+      internalID: 2750049266688265708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c95cce32f8f342a4fa716986d7d7f
+      internalID: -2066982547400100002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ff028dc0b997c48b775940c3c25742
+      internalID: 3911622309901962928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0be9e20a3fbb34e8b40b7d961657fe
+      internalID: -630561216109016000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef9d7cfc36f9a46836ba672c359542
+      internalID: -5100766095764676689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce4a131a93ac14996a3c6e83d796ae
+      internalID: -9054703059218174137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 62
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ae4bae4f948e4c84062691ccaa86f
+      internalID: -6141889346570269968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7629c63cac3414eac0e2a64303174e
+      internalID: -6244277812720838965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bcc92c1ba5bfa438bd97cd3ea1c41a
+      internalID: 7628761921845452811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334cb1b4215e6e24286cf03a2db752ab
+      internalID: -2466117552769098748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eab125d86a083489882e8299de2715
+      internalID: -253463134142801387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe290c6b78d52a43ac266607f2d10da
+      internalID: -1158178500050935847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poltergeist_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30342a288790fcb48a23a51ae435f62d
+      internalID: -8802401913862115935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
